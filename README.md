@@ -7,6 +7,6 @@ Hi, I'm Swarit! I'm a passionate Google Developer, Cyber Champion, and coding en
 
 *Skills: Google Development, Cyber Security, Unity, Unreal, Godot, GitHub, Community Leadership
 
-*Projects: not prefer to say
+*Projects: prefer not to say
 
 *Let's Connect!
